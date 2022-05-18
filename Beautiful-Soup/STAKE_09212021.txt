@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Stake.com:
+      Bitcoin Casino & Sports Betting - Play Smarter
+    </title>
+    <meta name="description" content="Stake is the ultimate betting experience. Instantly deposit and withdraw Bitcoin, Ethereum, Doge, VISA, & more. Over 2000 games. UFC Official Betting Partner">
+    <meta name="keywords" content="Bitcoin, Ethereum, Litecoin, Gambling, Casino">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="google-site-verification" content="1wWcWtvVwbpNeLM8xp4rDCkyiu5G5-QO6GIfLFeoffA">
+    <meta name="fragment" content="!">
+    <meta property="og:url" content="https://stake.com">
+    <meta property="og:title" content="Stake.com: Bitcoin Casino & Sports Betting - Play Smarter">
+    <meta property="og:description" content="Stake is the ultimate betting experience. Instantly deposit and withdraw Bitcoin, Ethereum, Doge, VISA, & more. Over 2000 games. UFC Official Betting Partner">
+    <meta property="og:image" content="https://stake.com/43fa26733546907c9ccbdeaf91d2f33d.jpg">
+    <link rel="stylesheet" href="https://use.typekit.net/aba0ebl.css">
+     
+    <!-- start Mixpanel -->
+    <script type="text/javascript">
+      (function(c, a) {
+        if (!a.__SV) {
+          var b = window;
+          try {
+            var d,
+              m,
+              j,
+              k = b.location,
+              f = k.hash;
+            d = function(a, b) {
+              return (m = a.match(RegExp(b + '=([^&]*)'))) ? m[1] : null;
+            };
+            f &&
+              d(f, 'state') &&
+              ((j = JSON.parse(decodeURIComponent(d(f, 'state')))),
+              'mpeditor' === j.action &&
+                (b.sessionStorage.setItem('_mpcehash', f),
+                history.replaceState(j.desiredHash || '', c.title, k.pathname + k.search)));
+          } catch (n) {}
+          var l, h;
+          window.mixpanel = a;
+          a._i = [];
+          a.init = function(b, d, g) {
+            function c(b, i) {
+              var a = i.split('.');
+              2 == a.length && ((b = b[a[0]]), (i = a[1]));
+              b[i] = function() {
+                b.push([i].concat(Array.prototype.slice.call(arguments, 0)));
+              };
+            }
+            var e = a;
+            'undefined' !== typeof g ? (e = a[g] = []) : (g = 'mixpanel');
+            e.people = e.people || [];
+            e.toString = function(b) {
+              var a = 'mixpanel';
+              'mixpanel' !== g && (a += '.' + g);
+              b || (a += ' (stub)');
+              return a;
+            };
+            e.people.toString = function() {
+              return e.toString(1) + '.people (stub)';
+            };
+            l = 'disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove'.split(
+              ' ',
+            );
+            for (h = 0; h < l.length; h++) c(e, l[h]);
+            var f = 'set set_once union unset remove delete'.split(' ');
+            e.get_group = function() {
+              function a(c) {
+                b[c] = function() {
+                  call2_args = arguments;
+                  call2 = [c].concat(Array.prototype.slice.call(call2_args, 0));
+                  e.push([d, call2]);
+                };
+              }
+              for (
+                var b = {},
+                  d = ['get_group'].concat(Array.prototype.slice.call(arguments, 0)),
+                  c = 0;
+                c < f.length;
+                c++
+              )
+                a(f[c]);
+              return b;
+            };
+            a._i.push([b, d, g]);
+          };
+          a.__SV = 1.2;
+          b = c.createElement('script');
+          b.type = 'text/javascript';
+          b.async = !0;
+          b.src =
+            'undefined' !== typeof MIXPANEL_CUSTOM_LIB_URL
+              ? MIXPANEL_CUSTOM_LIB_URL
+              : 'file:' === c.location.protocol &&
+                '//cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js'.match(/^\/\//)
+              ? 'https://cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js'
+              : '//cdn4.mxpnl.com/libs/mixpanel-2-latest.min.js';
+          d = c.getElementsByTagName('script')[0];
+          d.parentNode.insertBefore(b, d);
+        }
+      })(document, window.mixpanel || []);
+      mixpanel.init('e29e8d653fb046aa5a7d7b151ecf6f99');
+    </script>
+    <!-- end Mixpanel -->
+    <script defer="defer">
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js',
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' +
+          i +
+          dl +
+          '&gtm_auth=a8BW39-VcJcKaP4mxR7OrA&gtm_preview=env-2&gtm_cookies_win=x?';
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-W36P3NK');
+    </script>
+    <script defer="defer">
+      (function() {
+        var w = window;
+        var ic = w.Intercom;
+        if (typeof ic === 'function') {
+          ic('reattach_activator');
+          ic('update', intercomSettings);
+        } else {
+          var d = document;
+          var i = function() {
+            i.c(arguments);
+          };
+          i.q = [];
+          i.c = function(args) {
+            i.q.push(args);
+          };
+          w.Intercom = i;
+          function l() {
+            var s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src =
+              'https://widget.intercom.io/widget/cx1ywgf2';
+            var x = d.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+          }
+          if (w.attachEvent) {
+            w.attachEvent('onload', l);
+          } else {
+            w.addEventListener('load', l, false);
+          }
+        }
+      })();
+    </script>
+  <link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#fff">
+<meta name="application-name" content="Stake">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="1024x1024" href="/apple-touch-icon-1024x1024.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Stake">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"    href="/apple-touch-startup-image-640x1136.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"    href="/apple-touch-startup-image-750x1334.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"    href="/apple-touch-startup-image-828x1792.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"    href="/apple-touch-startup-image-1125x2436.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"    href="/apple-touch-startup-image-1242x2208.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"    href="/apple-touch-startup-image-1242x2688.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"   href="/apple-touch-startup-image-1536x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"   href="/apple-touch-startup-image-1668x2224.png">
+<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"   href="/apple-touch-startup-image-1668x2388.png">
+<link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"  href="/apple-touch-startup-image-2048x2732.png">
+<link rel="apple-touch-startup-image" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"  href="/apple-touch-startup-image-1620x2160.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"   href="/apple-touch-startup-image-1136x640.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"   href="/apple-touch-startup-image-1334x750.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"   href="/apple-touch-startup-image-1792x828.png">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)"   href="/apple-touch-startup-image-2436x1125.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)"   href="/apple-touch-startup-image-2208x1242.png">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)"   href="/apple-touch-startup-image-2688x1242.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"  href="/apple-touch-startup-image-2048x1536.png">
+<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"  href="/apple-touch-startup-image-2224x1668.png">
+<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"  href="/apple-touch-startup-image-2388x1668.png">
+<link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="/apple-touch-startup-image-2732x2048.png">
+<link rel="apple-touch-startup-image" media="(device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"  href="/apple-touch-startup-image-2160x1620.png">
+<link rel="icon" type="image/png" sizes="228x228" href="/coast-228x228.png">
+<meta name="msapplication-TileColor" content="#fff">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="msapplication-config" content="/browserconfig.xml">
+<link rel="yandex-tableau-widget" href="/yandex-browser-manifest.json"></head>
+
+  <body>
+    <noscript>If you're seeing this message, that means
+      <strong>JavaScript has been disabled on your browser</strong>, please
+      <strong>enable JS</strong> to make this app work.</noscript>
+    
+    <script>
+      console.log('%cStop!', 'color: red; font-size: 42px; font-weight: 700');
+      console.log(
+        "%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Stake feature or 'hack' someone's account, it is a scam and will give them access to your Stake account.",
+        'font-size: 16px;',
+      );
+    </script>
+    <script>
+      console.log('Tue Sep 21 2021 03:34:26 GMT+0000 (Coordinated Universal Time)');
+    </script>
+    
+    <div id="app">
+      <style>
+        html,
+        body,
+        #app {
+          height: 100%;
+          width: 100%;
+          overflow: hidden;
+          margin: 0;
+        }
+
+        body {
+          background: #192c38;
+          font-family: 'proxima-nova', sans-serif;
+          font-size: 14px;
+        }
+
+        .loader-container {
+          width: 100%;
+          height: 100%;
+          display: grid;
+          justify-items: center;
+          align-content: center;
+        }
+
+        .title {
+          color: #ffffff;
+          font-weight: 600;
+          font-size: 1.4em;
+        }
+
+        .loader {
+          width: 100%;
+          max-width: 50px;
+        }
+
+        .logo {
+          width: 100%;
+          max-width: 100px;
+        }
+      </style>
+      <div class="loader-container">
+        <img class="logo" src="/b3d4a3670d4e78c98532383fe3889ea7.svg" alt="stake.com">
+        <h1 class="title">Play Smarter</h1>
+        <img class="loader" src="/aeac8cf9907540ddde236ae19a27936e.gif" alt="loading">
+      </div>
+    </div>
+  <script type="text/javascript" src="/main.ca072292702eddaec835.js"></script><script type="text/javascript" src="/runtime.7c22ae98fb4cd6ca6d52.js"></script><script type="text/javascript" src="/vendors.92d83afa3252a83d5ce9.js"></script></body>
+</html>

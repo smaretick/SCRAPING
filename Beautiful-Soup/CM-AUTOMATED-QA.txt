@@ -1,0 +1,10 @@
+Create automated process to run automated maintenance Python scripts:
+	python3 /Users/scott/Desktop/PROD-WORKS/PYTHON/PROD/ImportantSitesMailPROD.py
+	(automated Python-Selenium
+	python3 /Users/scott/Desktop/PROD-WORKS/PYTHON/PROD/Crypto.py
+	python3 /Users/scott/Desktop/PROD-WORKS/PYTHON/PROD/CM_MOBILE.py
+	/Users/scott/Desktop/PROD-WORKS/PYTHON/PROD/IS 
+	/Users/scott/Desktop/PROD-WORKS/PYTHON/PROD/curl.sh
+        /Users/scott/Desktop/Beautiful-Soup/BS-PROD:	
+		python3 BeauSoup.py > beautiful_soup-09292021.txt
+		diff beautiful_soup-MMDDYYYY.txt(0) beautiful_soup-MMDDYYYY.txt(1)
